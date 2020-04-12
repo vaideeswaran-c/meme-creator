@@ -1,0 +1,26 @@
+.vaidee-main-div {
+	padding-top: 50px;
+}
+.vaidee-meme-div {
+	display: inline;
+}
+
+.vaidee-meme-img {
+	height: 200px;
+	width: 200px;
+	margin: 25px;
+}
+
+.vaidee-sidebar {
+	height: 100%;
+	width: 160px;
+	top: 50px;
+	left: 0;
+	background-color: #edebe6;
+	position: fixed;
+	justify-content: center;
+}
+
+.vaidee-mainbar {
+	margin-left: 210px;
+}
